@@ -1,2 +1,4 @@
 # CommunityClassroom-Git
-Kunal Kushwaha's video on Open source 
+Thanks Kunal for amazing Content.
+-I am Purushottam Kumar and i am following the DSA Series seriously.
+-This community is Really Amazing.
